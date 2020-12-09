@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme) => ({
 
 function App() {
   const classes = useStyles();
-  
+
   return (
     <>
       <div className={classes.root}>
@@ -44,7 +44,7 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload. TEST
+            Edit <code>src/App.js</code> and save to reload. TESTING
           </p>
           <a
             className="App-link"
